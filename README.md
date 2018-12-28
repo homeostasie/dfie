@@ -1,4 +1,4 @@
-# Labélisation : Compétences
+# 1 - Labélisation : Compétences
 
 ## Documents
 
@@ -9,7 +9,7 @@
 * [Livret-d-accueil-2018.pdf](http://www.homeostasie.eu/dfie/doc/Livret-d-accueil-2018.pdf)
 * [Proposition-de-lettre.pdf](http://www.homeostasie.eu/dfie/doc/proposition-de-lettre.pdf)
 
-# Suivi : Périscollège
+# 2 - Suivi : Périscollège
 
 ## Documents
 
