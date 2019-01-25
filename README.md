@@ -3,7 +3,7 @@
 ## Labélisation
 
 * [cahier-de-bord-2018-11-27.pdf](http://www.homeostasie.eu/dfie/doc/competences/labelisation/cahier-de-bord-2018-11-27.pdf)
-* [fiche-synthese-2019-01-12.docx](http://www.homeostasie.eu/dfie/doc/competences/labelisation/fiche-synthese 2019-01-12.docx)
+* [fiche-synthese-2019-01-12.docx](http://www.homeostasie.eu/dfie/doc/competences/labelisation/fiche-synthese-2019-01-12.docx)
 * [grille-evaluation-labellisation.xlsx](http://www.homeostasie.eu/dfie/doc/competences/labelisation/grille-evaluation-labellisation.xlsx)
 * [presentation-labellisation.pptx](http://www.homeostasie.eu/dfie/doc/competences/labelisation/presentation-labellisation.pptx)
 
