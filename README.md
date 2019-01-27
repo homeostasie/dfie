@@ -2,7 +2,7 @@
 
 ## Labélisation
 
-* [fiche-synthese-2019-01-12.docx](http://www.homeostasie.eu/dfie/doc/competences/labelisation/fiche-synthese-2019-01-12.docx)
+* [fiche-synthese-2019-01-27.docx](http://www.homeostasie.eu/dfie/doc/competences/labelisation/fiche-synthese-2019-01-27.docx)
 * [grille-evaluation-labellisation.xlsx](http://www.homeostasie.eu/dfie/doc/competences/labelisation/grille-evaluation-labellisation.xlsx)
 * [presentation-labellisation.pptx](http://www.homeostasie.eu/dfie/doc/competences/labelisation/presentation-labellisation.pptx)
 
